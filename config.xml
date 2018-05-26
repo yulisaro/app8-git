@@ -2,10 +2,10 @@
 
  <widget xmlns ="http://www.w3.org/ns/widgets"
   xmlns.gap="http://phonegap.com/ns/1.0"
-  id= "com.phonegap.app1"
+  id= "com.phonegap.app8"
   version ="1.0.0">
   
-   <name> App8 Muestra aplicaciones </name>
+   <name> app8-2018 Muestra aplicaciones </name>
    
    <description>
     Aplicacion que muestra aplicaciones anteriores
@@ -35,7 +35,7 @@
 	   
 	   <!--Collocar icono app -->
 	   
-	   <icon src="res/android/mdpi8.png"/>
+	   <icon src="res/android/mdpi.png"/>
 	   
 	 </widget>
 	   
