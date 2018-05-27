@@ -1,4 +1,4 @@
-// JavaScript Document 
+﻿// JavaScript Document 
 $(document).ready(function(e) {
     document.addEventListener("deviceready",function(){ //esuchador de eventos
 		$('#izquierda').on("swipeleft",function(){ //deslizar a la izquierda
@@ -16,7 +16,7 @@ $(document).ready(function(e) {
 					navigator.notification.vibrate(3000); //vibra el dispositivo
 					break;
 				}
-			},"aplicacion7","Beepear,Vibrar,Canselar");
+			},"aplicacion7","Beepear,Vibrar,Cancelar");
 			});
 	},false);
 });
